@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/worldbank-database-analysis.iml" filepath="$PROJECT_DIR$/.idea/modules/worldbank-database-analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/worldbank-database-analysis_main.iml" filepath="$PROJECT_DIR$/.idea/modules/worldbank-database-analysis_main.iml" group="worldbank-database-analysis" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/worldbank-database-analysis_test.iml" filepath="$PROJECT_DIR$/.idea/modules/worldbank-database-analysis_test.iml" group="worldbank-database-analysis" />
+    </modules>
+  </component>
+</project>
